@@ -1,8 +1,4 @@
-# Frontend-Developer-Screening-Test
-
 # Responsive Navbar with React and Tailwind CSS
-
-
 
 A responsive navbar component built with React and styled using Tailwind CSS. This project demonstrates how to create a modern and adaptable navigation bar for web applications.
 
